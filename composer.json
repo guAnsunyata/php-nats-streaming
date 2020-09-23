@@ -1,11 +1,11 @@
 {
-  "name": "byrnedo/php-nats-streaming",
+  "name": "guansunyata/php-nats-streaming",
   "license": "MIT",
   "description": "PHP Client for nats-streaming-server.",
   "type": "library",
   "require": {
     "protobuf-php/protobuf": "^0.1.3",
-    "repejota/nats": "^0.8.6"
+    "guansunyata/nats": "dev-master"
   },
   "require-dev": {
     "protobuf-php/protobuf-plugin": "^0.1.2",
